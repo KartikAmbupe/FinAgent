@@ -2,7 +2,7 @@
 
 # 📊 Stock Analysis Multi-Agent System
 
-A modular multi-agent system that answers stock-related questions using real-time data and news analysis. It fetches ticker symbols, price trends, recent news, and gives intelligent explanations — all from natural language queries.
+A modular multi-agent system that answers stock-related questions using real-time data and news analysis. It fetches ticker symbols, price trends, recent news, and gives intelligent explanations, all from natural language queries.
 
 ---
 
